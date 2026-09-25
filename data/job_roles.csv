@@ -1,0 +1,6 @@
+role,required_skills,description
+Data Analyst,"python, sql, excel, pandas, power bi","Extensive experience with SQL queries, Excel dashboards, Python data analysis using Pandas, and Power BI visualization."
+Machine Learning Engineer,"python, ml, scikit-learn, fastapi, docker, sql","Strong Python skills, experience with scikit-learn for Machine Learning pipelines, deployment using FastAPI, and Docker containerization."
+AI Engineer,"python, deep learning, llm, rag, apis, pytorch","Deep learning expertise, LLM orchestration using RAG, REST APIs, and PyTorch framework."
+NLP Engineer,"python, nlp, transformers, hugging face, spacy, sql","Natural Language Processing specialist with Hugging Face transformers, spaCy, and text feature extraction techniques."
+Computer Vision Engineer,"python, opencv, cnn, yolo, pytorch","Computer Vision expertise using OpenCV, Convolutional Neural Networks (CNN), YOLO object detection, and PyTorch."
