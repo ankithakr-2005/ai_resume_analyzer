@@ -9,20 +9,6 @@ An NLP-powered application that parses candidate resumes (PDF/DOCX), extracts te
 - **Job Matching**: Evaluates vector alignment between resume text and job descriptions using TF-IDF and Cosine Similarity.
 - **Skill Gap & Roadmap**: Highlights matching vs. missing skills for selected job roles and builds a weekly learning roadmap.
 
-## Project Structure
-ai_resume_analyzer/
-├── app.py                  # Streamlit dashboard interface
-├── text_cleaner.py         # PDF/DOCX text extraction & cleaning
-├── skill_extractor.py      # Skill taxonomy matching engine
-├── job_matcher.py          # TF-IDF & Cosine Similarity engine
-├── roadmap_generator.py    # Custom weekly learning roadmap logic
-├── requirements.txt        # Project dependencies
-├── .gitignore              # Git ignore configuration
-├── README.md               # Documentation
-├── data/
-│   └── job_roles.csv       # Job role dataset and required skills
-└── sample_resumes/         # Test resume files
-
 ## Setup & Execution
 
 1. **Activate Virtual Environment:**
