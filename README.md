@@ -16,8 +16,10 @@ An NLP-powered application that parses candidate resumes (PDF/DOCX), extracts te
    .\venv\Scripts\Activate.ps1
 
 1. Install Dependencies:
-python -m pip install -r requirements.txt
+   ```powershell
+   python -m pip install -r requirements.txt
 
-2. Run Streamlit Application:
-python -m streamlit run app.py
+3. Run Streamlit Application:
+   ```powershell
+   python -m streamlit run app.py
 
